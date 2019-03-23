@@ -1,2 +1,2 @@
-# php_rest_api
+# PHP REST API
 The REST full API library
