@@ -1,0 +1,13 @@
+{
+    "name": "s2kdass/php_rest_api",
+    "description": "The REST full API library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Santhosh",
+            "email": "s2kdass@gmail.com"
+        }
+    ],
+    "require": {}
+}
