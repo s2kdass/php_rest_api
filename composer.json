@@ -9,5 +9,7 @@
             "email": "s2kdass@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.2"
+    }
 }
