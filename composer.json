@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "RESTApi\\" : "src/"
+            "s2kdass\\" : "src/"
         }
     },
     "require": {
