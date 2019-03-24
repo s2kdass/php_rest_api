@@ -9,6 +9,11 @@
             "email": "s2kdass@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "RESTApi\\" : "src/"
+        }
+    },
     "require": {
         "php": ">=7.2"
     }
